@@ -4,12 +4,6 @@
 
 ---
 
-## 📸 Demo
-
-<img src="https://user-images.githubusercontent.com/yourusername/plant-sim-demo.gif" alt="Simulation Demo" width="600">
-
----
-
 ## 📦 Features
 
 - Simulates growth of two types of plants over multiple generations
